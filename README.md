@@ -1,6 +1,8 @@
 # tictactoeforfun
 this was in a go class it and was super fun
 
+Looking now, there is a lot of repeated code. Given more time, I would fix that. And make sure the score is working. And add a bit more pizzazz. 
+
 Tic-Tac-Toe Elements:
 Board
 Current Game Play
