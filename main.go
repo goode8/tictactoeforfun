@@ -1,6 +1,4 @@
 //Dawn Goodnight
-//CSC500
-//FA20
 //Tic-Tac-Toe
 package main
 
